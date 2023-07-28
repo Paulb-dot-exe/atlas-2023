@@ -1,0 +1,115 @@
+{
+	"id": -1,
+	"name": "STI2D",
+	"description": "The STI2D (Sciences et Technologies de l'Industrie et du Développement Durable) is a technological specialty that french high school student can choose instead of the general track.\nThe design of the logo may come from the instagram page of Memes STI2D.",
+	"links": {
+		"website": [
+			"https://www.instagram.com/memes_sti2d/"
+		],
+		"subreddit": [
+			"STI2D_"
+		]
+	},
+	"path": {
+		"8-12": [
+			[
+				-362,
+				272
+			],
+			[
+				-334,
+				273
+			],
+			[
+				-334,
+				283
+			],
+			[
+				-362,
+				282
+			],
+			[
+				-362,
+				272
+			]
+		],
+		"19-41": [
+			[
+				-364,
+				159
+			],
+			[
+				-338,
+				159
+			],
+			[
+				-338,
+				168
+			],
+			[
+				-364,
+				168
+			],
+			[
+				-364,
+				159
+			],
+			[
+				-364,
+				150
+			],
+			[
+				-338,
+				150
+			],
+			[
+				-338,
+				168
+			],
+			[
+				-364,
+				168
+			],
+			[
+				-364,
+				159
+			]
+		],
+		"49-53": [
+			[
+				-343,
+				146
+			],
+			[
+				-316,
+				146
+			],
+			[
+				-316,
+				137
+			],
+			[
+				-343,
+				137
+			],
+			[
+				-343,
+				146
+			]
+		]
+	},
+	"center": {
+		"8-12": [
+			-348,
+			278
+		],
+		"19-41": [
+			-350,
+			155
+		],
+		"49-53": [
+			-329,
+			142
+		]
+	}
+}
